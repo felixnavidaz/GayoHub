@@ -29,10 +29,6 @@ Bagi Anda yang baru ingin menjelajahi dunia Kopi Gayo, berikut adalah beberapa v
 
 &nbsp;
 
-![](/uploads/85bf8c86-702a-4811-b9e6-12ef95f88417-jpg-tplv-aphluv4xwc-white-pad-v1-250-250.jpg)
-
-&nbsp;
-
 Ini adalah jenis Kopi Gayo yang paling klasik. Diproses secara tradisional dengan metode giling basah (*semi-washed*), jenis ini menghasilkan rasa kopi yang sangat tebal dengan aroma tanah dan rempah yang kuat.
 
 &nbsp;
