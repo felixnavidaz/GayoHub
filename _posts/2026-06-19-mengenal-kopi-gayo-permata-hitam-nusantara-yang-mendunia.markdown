@@ -5,7 +5,7 @@ date: 2026-06-19T00:00:00+07:00
 ---
 ## Tentang Kopi Gayo
 
-&nbsp;![Biji Kopi Gayo]({{site.baseurl }}(/uploads/home-bg.jpg)
+&nbsp;![Biji Kopi Gayo]({{ site.baseurl }}(/uploads/home-bg.jpg)
 
 &nbsp;
 
